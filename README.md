@@ -1,3 +1,9 @@
+# Links
+
+Check out the video on YouTube:
+
+[![Watch the video](https://i.ytimg.com/vi/M7-GyiGjtbA/maxresdefault.jpg)](https://youtu.be/M7-GyiGjtbA)
+
 # Agent Loop
 
 A system for running Claude agent loops that autonomously work through PRDs (Product Requirements Documents). Supports both local and remote execution via `screen` sessions.
